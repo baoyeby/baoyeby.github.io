@@ -17,9 +17,9 @@
     
     
     <entry>
-      <title>GTA5-新性别修改教程-解决该性别bug被修复</title>
-      <link href="//post/GTA5-%E6%96%B0%E6%80%A7%E5%88%AB%E4%BF%AE%E6%94%B9%E6%95%99%E7%A8%8B-%E8%A7%A3%E5%86%B3%E8%AF%A5%E6%80%A7%E5%88%ABbug%E8%A2%AB%E4%BF%AE%E5%A4%8D.html"/>
-      <url>//post/GTA5-%E6%96%B0%E6%80%A7%E5%88%AB%E4%BF%AE%E6%94%B9%E6%95%99%E7%A8%8B-%E8%A7%A3%E5%86%B3%E8%AF%A5%E6%80%A7%E5%88%ABbug%E8%A2%AB%E4%BF%AE%E5%A4%8D.html</url>
+      <title>GTA5-新性别修改教程-解决改性别bug被修复</title>
+      <link href="//post/GTA5-%E6%96%B0%E6%80%A7%E5%88%AB%E4%BF%AE%E6%94%B9%E6%95%99%E7%A8%8B-%E8%A7%A3%E5%86%B3%E6%94%B9%E6%80%A7%E5%88%ABbug%E8%A2%AB%E4%BF%AE%E5%A4%8D.html"/>
+      <url>//post/GTA5-%E6%96%B0%E6%80%A7%E5%88%AB%E4%BF%AE%E6%94%B9%E6%95%99%E7%A8%8B-%E8%A7%A3%E5%86%B3%E6%94%B9%E6%80%A7%E5%88%ABbug%E8%A2%AB%E4%BF%AE%E5%A4%8D.html</url>
       
         <content type="html"><![CDATA[<p>GTA以前改性别bug被修复了，所以有了新的方法。</p><h2 id="1-准备"><a href="#1-准备" class="headerlink" title="1.准备"></a>1.准备</h2><p>打开GTA5</p><p>一个<strong>GTA线上小助手</strong>，下载地址：<a href="https://crazyzhang.lanzoui.com/b04n07ymb">GTA小助手[蓝奏云]</a></p><h2 id="2-开始"><a href="#2-开始" class="headerlink" title="2.开始"></a>2.开始</h2><p>首先打开小助手，如果报错可以根据这篇文章来修复：<a href="https://crazyzhang.cn/gta5/58ee.html">GTA5线上小助手 - 常见问题解决办法</a></p><p>打开后是这样：</p><p><img src="https://s2.loli.net/2022/06/25/CePknfQp789WUsB.png" alt="image-20220625070621989"></p><p>接下来点击<strong>第三方辅助</strong>，选择<strong>第三个</strong>（如果打开后界面不一致可以根据图中辅助的图片来找），勾上第三个的勾，就是打开了，如下图所示：</p><p><img src="https://s2.loli.net/2022/06/25/5Yya1KB4gk9dXpf.png" alt="image-20220625071015565"></p><p>打开后是这样的：</p><p><img src="https://s2.loli.net/2022/06/25/zhlUq7QCsM2npju.png" alt="image-20220625071148680"></p><p>再按接下来的操作：</p><p><img src="https://s2.loli.net/2022/06/25/urtkbMDIZ4iOgdB.png" alt="image-20220625071349732"></p><p>上述文字：</p><p>$MPx_ALLOW_GENDER_CHANGE</p><p>52</p><p><u><em>千万不要弄混了，即弄成这样：$MPx_ALLOW_GENDER_CHANGE52</em></u></p><p><u><em>这是两行不是一行！</em></u></p><p>弄好后切换至GTA5游戏窗口，按M，选择风格，再选择第一个，确定，等一会，便会在捏脸界面出现性别选项，就可以修改了。</p><p>最后分享一个女性的捏脸数据：<a href="https://tieba.baidu.com/p/5644597443">【图片】捏脸女 数据【gta5pc吧】_百度贴吧 (baidu.com)</a></p>]]></content>
       
